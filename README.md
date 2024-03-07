@@ -4,4 +4,4 @@
 
 **Список дорожных карт:**
 
-1. [Дорожная карта Flutter-разработчика](https://github.com/physcodestyle/roadmap/tree/flutter)
+1. [Дорожная карта развития компетенций Flutter-разработчика](https://github.com/physcodestyle/roadmap/tree/flutter)
